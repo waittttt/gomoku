@@ -1,0 +1,35 @@
+﻿  源.cpp
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(49,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(153,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(228,37): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(229,37): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(401,17): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(402,17): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(460,17): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(461,17): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1295,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1666,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1666,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1671,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1671,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1677,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1677,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1682,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\留学材料\作品集\gomoku\gomoku\源.cpp(1682,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  gomoku.vcxproj -> E:\留学材料\作品集\gomoku\x64\Debug\gomoku.exe
